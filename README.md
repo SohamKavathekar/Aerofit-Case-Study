@@ -1,2 +1,13 @@
 # Aerofit-Case-Study
 Analysis of Customer Behavioral and Demographic Segmentation
+### Summary
+
+The Aerofit Case Study Jupyter Notebook provides a comprehensive analysis of customer demographics, purchasing behavior, and product performance. The notebook begins with an initial data overview, confirming the absence of null values and emphasizing the need for data binning to facilitate better visualization due to the high variability in attributes like Age, Income, and Miles. The analysis includes a detailed univariate analysis, highlighting key trends and insights.
+
+Key findings from the univariate analysis reveal that the most sold product is KP281, followed by KP481 and KP781. The data suggests that the majority of customers are aged between 18-30 years, indicating a need to target marketing efforts towards older age groups to boost sales. Gender-based analysis shows that approximately 38% of customers are females, pointing towards potential for improved market awareness among this demographic. Educational background analysis indicates that most customers have 14 to 16 years of education, and partnered customers tend to purchase more products than single customers, suggesting shared usage among couples.
+
+Further analysis indicates that the majority of customers plan to use the treadmill three times a week, hinting at alternate day usage patterns. Income-based analysis shows a direct correlation between income levels and product preference, with higher-income customers opting for more expensive models like KP781. Additionally, partnered customers display consistent purchasing behavior across product lines, and mileage data suggests that regular trainers are the primary customers for treadmills.
+
+The notebook also explores various relationships, such as Product vs. Income and Product vs. Marital Status, offering insights into customer segmentation. Recommendations based on the analysis include adjusting product pricing to create better differentiation, introducing new products in the mid-price range, and enhancing targeted advertising strategies to address gender imbalances and attract higher-income customers. Specific suggestions include increasing the price of KP481 to create exclusivity, introducing a new product priced around 2100 to fill the pricing gap, and focusing marketing efforts on individuals aged 30 and above, as well as on single customers and those with higher incomes.
+
+Overall, the Aerofit Case Study Notebook provides valuable insights and actionable recommendations for optimizing product pricing, marketing strategies, and customer segmentation to enhance sales and market reach.
